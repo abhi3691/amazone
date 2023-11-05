@@ -1,0 +1,53 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Amazon-Ember-Medium.ttf",
+      "sha1": "3d5fc0d9b67cf1d16226a03d05a10595636b1bcf"
+    },
+    {
+      "path": "assets/fonts/Amazon-Ember-MediumItalic.ttf",
+      "sha1": "d106382d2420e8a6ec8003015b7ab200033f65e5"
+    },
+    {
+      "path": "assets/fonts/AmazonEmber_Bd.ttf",
+      "sha1": "a5f5bf83fc98ba2a8de83adc455a5bfc75e06e4c"
+    },
+    {
+      "path": "assets/fonts/AmazonEmber_BdIt.ttf",
+      "sha1": "415a0c2d8f3705452cf97a45c777f4d24283d6fb"
+    },
+    {
+      "path": "assets/fonts/AmazonEmber_He.ttf",
+      "sha1": "97ca44847a9fd97e32d1bbfb816a0058ba0b61e6"
+    },
+    {
+      "path": "assets/fonts/AmazonEmber_HeIt.ttf",
+      "sha1": "88d901774f97b918c93b6f152c1575c1f621ca2e"
+    },
+    {
+      "path": "assets/fonts/AmazonEmber_Lt.ttf",
+      "sha1": "9c6412560f8328944d1d361de51b105b3845b8c4"
+    },
+    {
+      "path": "assets/fonts/AmazonEmber_LtIt.ttf",
+      "sha1": "799d587c9ef5ef4febd197ac023be86acd614d72"
+    },
+    {
+      "path": "assets/fonts/AmazonEmber_Rg.ttf",
+      "sha1": "548775bd72016efd1d4c84b21b4d14017bd68407"
+    },
+    {
+      "path": "assets/fonts/AmazonEmber_RgIt.ttf",
+      "sha1": "b2b97fc12f970629cf82307bf89a99d4ffce45bc"
+    },
+    {
+      "path": "assets/fonts/AmazonEmber_Th.ttf",
+      "sha1": "4eea70259ae6d0711ec22d6fc71ebf7f84544dda"
+    },
+    {
+      "path": "assets/fonts/AmazonEmber_ThIt.ttf",
+      "sha1": "5f9dd72bf5b082ff72699bc9b0fd95431939a852"
+    }
+  ]
+}
