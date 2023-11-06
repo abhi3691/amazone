@@ -45,6 +45,10 @@ const styles = StyleSheet.create({
     borderBottomLeftRadius: 10,
     borderBottomRightRadius: 10,
   },
+  row: {
+    flexDirection: 'row',
+    alignItems: 'center',
+  },
 });
 
 export default styles;

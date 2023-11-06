@@ -15,6 +15,7 @@ const colors = {
   gradintPink: '#E36D9D',
   gradintYellow1: '#FFECB7',
   graintYellow2: '#FFDD77',
+  lingthBlue: '#E2EFE8',
 };
 
 export default colors;

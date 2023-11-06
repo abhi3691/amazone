@@ -1,11 +1,11 @@
-import {View, Text} from 'react-native';
+import {View, Text, Image} from 'react-native';
 import React from 'react';
 import styles from './styles';
-
+import onplusAdd from '../../../../../assets/images/onplus_add.jpeg';
 const Deals = () => {
   return (
     <View style={styles.container}>
-      <Text>Deals</Text>
+      <Image source={onplusAdd} style={styles.image} />
     </View>
   );
 };

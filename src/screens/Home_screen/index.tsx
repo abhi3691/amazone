@@ -17,6 +17,7 @@ import Animated, {
 import {useSafeAreaInsets} from 'react-native-safe-area-context';
 import colors from '../../components/constants/colors';
 import CarouselScroll from './organization/CarouselScroll';
+import ScreenRatio from '../../components/constants/ScreenRatio';
 
 const headerTop = 35;
 const HomeScreen = () => {
@@ -36,7 +37,8 @@ const HomeScreen = () => {
           onScroll={scrollHandler}
           contentContainerStyle={{paddingTop: headerTop}}
           bounces={false}
-          scrollEventThrottle={1}>
+          scrollEventThrottle={1}
+          showsVerticalScrollIndicator={false}>
           {/* deals */}
           <Category />
           {/* carousel */}
@@ -45,6 +47,7 @@ const HomeScreen = () => {
           <Service />
           {/* deals */}
           <Deals />
+          <View style={styles.bottom} />
         </Animated.ScrollView>
 
         {/* address */}
