@@ -9,6 +9,12 @@ const colors = {
   gradintBlue1: '#88dae0',
   gradintBlue2: '#98e1d6',
   gradintBlue3: '#9ee4d4',
+  gradintBlue4: '#B6E8EF',
+  gradintBlue5: '#C8F1E3',
+  gradintOrange: '#FFB463',
+  gradintPink: '#E36D9D',
+  gradintYellow1: '#FFECB7',
+  graintYellow2: '#FFDD77',
 };
 
 export default colors;

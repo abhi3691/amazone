@@ -1,4 +1,4 @@
-import {StyleSheet} from 'react-native';
+import {StatusBar, StyleSheet} from 'react-native';
 
 const styles = StyleSheet.create({
   container: {
@@ -18,7 +18,7 @@ const styles = StyleSheet.create({
     justifyContent: 'space-between',
     paddingHorizontal: 10,
     elevation: 5,
-    marginTop: 30,
+    marginTop: StatusBar.currentHeight ?? 50,
   },
   row: {
     flexDirection: 'row',
@@ -28,7 +28,8 @@ const styles = StyleSheet.create({
     padding: 8,
   },
   qrcodeContainer: {
-    marginTop: 30,
+    marginTop: StatusBar.currentHeight ?? 50,
+    marginLeft: 5,
   },
 });
 export default styles;

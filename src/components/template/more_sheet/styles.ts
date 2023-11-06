@@ -10,7 +10,7 @@ const styles = StyleSheet.create({
     width: ScreenRatio.width,
     position: 'absolute',
     zIndex: 2,
-    bottom: Platform.OS == 'android' ? '6.8%' : '8.9%',
+    bottom: '8%',
   },
   contentContainer: {
     flex: 1,

@@ -7,6 +7,7 @@ import AntDesign from 'react-native-vector-icons/AntDesign';
 import Feather from 'react-native-vector-icons/Feather';
 import MaterialIcons from 'react-native-vector-icons/MaterialIcons';
 import colors from '../../constants/colors';
+import StatusBarPlaceHolder from '../../molecules/StatusBarPlaceHolder';
 
 const Header = () => {
   const [isKeybordShow, setIsKeybordShow] = useState(false);
@@ -63,6 +64,7 @@ const Header = () => {
             />
           </View>
         )}
+        <StatusBarPlaceHolder />
       </LinearGradient>
     </View>
   );

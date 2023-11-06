@@ -10,8 +10,12 @@
       "sha1": "d106382d2420e8a6ec8003015b7ab200033f65e5"
     },
     {
-      "path": "assets/fonts/AmazonEmber_Bd.ttf",
+      "path": "assets/fonts/AmazonEmber-Bold.ttf",
       "sha1": "a5f5bf83fc98ba2a8de83adc455a5bfc75e06e4c"
+    },
+    {
+      "path": "assets/fonts/AmazonEmber-Reguler.ttf",
+      "sha1": "548775bd72016efd1d4c84b21b4d14017bd68407"
     },
     {
       "path": "assets/fonts/AmazonEmber_BdIt.ttf",
@@ -32,10 +36,6 @@
     {
       "path": "assets/fonts/AmazonEmber_LtIt.ttf",
       "sha1": "799d587c9ef5ef4febd197ac023be86acd614d72"
-    },
-    {
-      "path": "assets/fonts/AmazonEmber_Rg.ttf",
-      "sha1": "548775bd72016efd1d4c84b21b4d14017bd68407"
     },
     {
       "path": "assets/fonts/AmazonEmber_RgIt.ttf",

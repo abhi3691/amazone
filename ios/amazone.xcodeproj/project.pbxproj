@@ -8,24 +8,24 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* amazoneTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* amazoneTests.m */; };
-		0C80B921A6F3F58F76C31292 /* libPods-amazone.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-amazone.a */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
-		15B30B4B577243BFB0D88C02 /* AmazonEmber_Rg.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F55018A119D640D29946A0A3 /* AmazonEmber_Rg.ttf */; };
-		38D29B5F340643BD9A6C58BE /* AmazonEmber_Lt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 57C81E23DA1B4EF4BFF206FA /* AmazonEmber_Lt.ttf */; };
-		4FB6778A11634732A9BC4944 /* AmazonEmber_LtIt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7C3ED11AC56D43E185974A9D /* AmazonEmber_LtIt.ttf */; };
-		5D923B75908441F1B10696F3 /* AmazonEmber_ThIt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 68899B0002D24581AF0B5284 /* AmazonEmber_ThIt.ttf */; };
-		7699B88040F8A987B510C191 /* libPods-amazone-amazoneTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-amazone-amazoneTests.a */; };
+		16A0F6D955D6970EF8B63170 /* libPods-amazone.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 183AF854211891F4EFCB11CA /* libPods-amazone.a */; };
+		18F917E4D9304C20B4D0C421 /* AmazonEmber_He.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 72A7CC49C06B4BCC81D9ED67 /* AmazonEmber_He.ttf */; };
+		2491D3D14A0EE479B1177CE8 /* libPods-amazone-amazoneTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E975A28036020B65042A55E3 /* libPods-amazone-amazoneTests.a */; };
+		2CDB9C6CBC1742FEB6A3F82C /* AmazonEmber_ThIt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D99D1B8B88D147BFA4800D23 /* AmazonEmber_ThIt.ttf */; };
+		31A1ABD5EB3B4B0DAF15C615 /* Amazon-Ember-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CF11F6940A5C46D891E0A623 /* Amazon-Ember-Medium.ttf */; };
+		39F37F2D252747E6AB308B3A /* AmazonEmber_RgIt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F7449BDDC8CF4069A97D61B7 /* AmazonEmber_RgIt.ttf */; };
+		559EAE376D284E8C835F841B /* AmazonEmber-Reguler.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AB861B0DB51F45D187026E42 /* AmazonEmber-Reguler.ttf */; };
+		577C85B6C4DB446893C86CDB /* AmazonEmber-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 56372354235B40E8B4FCCB06 /* AmazonEmber-Bold.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
-		8EAA3EDABFC0444CB67A46DC /* AmazonEmber_RgIt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B16CDE93CA2D4475976EF54D /* AmazonEmber_RgIt.ttf */; };
-		95828EE4E5F34EAEAF94BCAC /* Amazon-Ember-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 732CA64E129342BEABB23D92 /* Amazon-Ember-Medium.ttf */; };
-		A87D7D6128774C0F824995B8 /* AmazonEmber_Th.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DB996737D35C40D084F93097 /* AmazonEmber_Th.ttf */; };
-		B530019F595B4686AE612180 /* AmazonEmber_He.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 096C350A44F54E2DBA6D865E /* AmazonEmber_He.ttf */; };
-		C0A2D6A12B024BB39D5097F8 /* AmazonEmber_Bd.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 38FFBFD27A2B4ED7B48CA391 /* AmazonEmber_Bd.ttf */; };
-		CA365DB263E6461B9CABE548 /* AmazonEmber_HeIt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D1735FA8358E41D5A43656C6 /* AmazonEmber_HeIt.ttf */; };
-		D308D8AC0B124C49A7BA8B75 /* Amazon-Ember-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 5BB6D9D794E14417B25262E6 /* Amazon-Ember-MediumItalic.ttf */; };
-		D5B826E5B514479680A6B6A0 /* AmazonEmber_BdIt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 956154A2373E4A68ACCE37D4 /* AmazonEmber_BdIt.ttf */; };
+		9237BC3047424F878D8FC760 /* AmazonEmber_LtIt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 67379434F3474343AC70A763 /* AmazonEmber_LtIt.ttf */; };
+		98A8FC7B332E41F782613255 /* Amazon-Ember-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F7928C6ABB9C4CE58D972209 /* Amazon-Ember-MediumItalic.ttf */; };
+		C196511AA3D84E9DBD3FBF85 /* AmazonEmber_Th.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 967E36DF669D4E699132F113 /* AmazonEmber_Th.ttf */; };
+		E171504BE7FE436592715A4A /* AmazonEmber_BdIt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 31BC6E83B9A24384AB778BAE /* AmazonEmber_BdIt.ttf */; };
+		EC71BB999D9A4AF2900BEFE4 /* AmazonEmber_Lt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1A1861727A9040F9A31CC7A5 /* AmazonEmber_Lt.ttf */; };
+		F53436A56E87453D9AA9A71C /* AmazonEmber_HeIt.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9BBCE1D77F79484487214AB5 /* AmazonEmber_HeIt.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,27 +42,25 @@
 		00E356EE1AD99517003FC87E /* amazoneTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = amazoneTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* amazoneTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = amazoneTests.m; sourceTree = "<group>"; };
-		096C350A44F54E2DBA6D865E /* AmazonEmber_He.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_He.ttf; path = ../assets/fonts/AmazonEmber_He.ttf; sourceTree = "<group>"; };
+		0D1F0B5F803D2EDF8FEB358F /* Pods-amazone-amazoneTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-amazone-amazoneTests.release.xcconfig"; path = "Target Support Files/Pods-amazone-amazoneTests/Pods-amazone-amazoneTests.release.xcconfig"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* amazone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = amazone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = amazone/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = amazone/AppDelegate.mm; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = amazone/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = amazone/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = amazone/main.m; sourceTree = "<group>"; };
-		19F6CBCC0A4E27FBF8BF4A61 /* libPods-amazone-amazoneTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-amazone-amazoneTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		38FFBFD27A2B4ED7B48CA391 /* AmazonEmber_Bd.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_Bd.ttf; path = ../assets/fonts/AmazonEmber_Bd.ttf; sourceTree = "<group>"; };
-		3B4392A12AC88292D35C810B /* Pods-amazone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-amazone.debug.xcconfig"; path = "Target Support Files/Pods-amazone/Pods-amazone.debug.xcconfig"; sourceTree = "<group>"; };
-		5709B34CF0A7D63546082F79 /* Pods-amazone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-amazone.release.xcconfig"; path = "Target Support Files/Pods-amazone/Pods-amazone.release.xcconfig"; sourceTree = "<group>"; };
-		57C81E23DA1B4EF4BFF206FA /* AmazonEmber_Lt.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_Lt.ttf; path = ../assets/fonts/AmazonEmber_Lt.ttf; sourceTree = "<group>"; };
-		5B7EB9410499542E8C5724F5 /* Pods-amazone-amazoneTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-amazone-amazoneTests.debug.xcconfig"; path = "Target Support Files/Pods-amazone-amazoneTests/Pods-amazone-amazoneTests.debug.xcconfig"; sourceTree = "<group>"; };
-		5BB6D9D794E14417B25262E6 /* Amazon-Ember-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Amazon-Ember-MediumItalic.ttf"; path = "../assets/fonts/Amazon-Ember-MediumItalic.ttf"; sourceTree = "<group>"; };
-		5DCACB8F33CDC322A6C60F78 /* libPods-amazone.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-amazone.a"; sourceTree = BUILT_PRODUCTS_DIR; };
-		68899B0002D24581AF0B5284 /* AmazonEmber_ThIt.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_ThIt.ttf; path = ../assets/fonts/AmazonEmber_ThIt.ttf; sourceTree = "<group>"; };
-		732CA64E129342BEABB23D92 /* Amazon-Ember-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Amazon-Ember-Medium.ttf"; path = "../assets/fonts/Amazon-Ember-Medium.ttf"; sourceTree = "<group>"; };
-		7C3ED11AC56D43E185974A9D /* AmazonEmber_LtIt.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_LtIt.ttf; path = ../assets/fonts/AmazonEmber_LtIt.ttf; sourceTree = "<group>"; };
+		183AF854211891F4EFCB11CA /* libPods-amazone.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-amazone.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		1A1861727A9040F9A31CC7A5 /* AmazonEmber_Lt.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_Lt.ttf; path = ../assets/fonts/AmazonEmber_Lt.ttf; sourceTree = "<group>"; };
+		268AA0C698A60D8304C710DA /* Pods-amazone-amazoneTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-amazone-amazoneTests.debug.xcconfig"; path = "Target Support Files/Pods-amazone-amazoneTests/Pods-amazone-amazoneTests.debug.xcconfig"; sourceTree = "<group>"; };
+		31BC6E83B9A24384AB778BAE /* AmazonEmber_BdIt.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_BdIt.ttf; path = ../assets/fonts/AmazonEmber_BdIt.ttf; sourceTree = "<group>"; };
+		56372354235B40E8B4FCCB06 /* AmazonEmber-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "AmazonEmber-Bold.ttf"; path = "../assets/fonts/AmazonEmber-Bold.ttf"; sourceTree = "<group>"; };
+		67379434F3474343AC70A763 /* AmazonEmber_LtIt.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_LtIt.ttf; path = ../assets/fonts/AmazonEmber_LtIt.ttf; sourceTree = "<group>"; };
+		72A7CC49C06B4BCC81D9ED67 /* AmazonEmber_He.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_He.ttf; path = ../assets/fonts/AmazonEmber_He.ttf; sourceTree = "<group>"; };
+		7E442CCEEB0CF7E07F7E2231 /* Pods-amazone.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-amazone.debug.xcconfig"; path = "Target Support Files/Pods-amazone/Pods-amazone.debug.xcconfig"; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = amazone/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		89C6BE57DB24E9ADA2F236DE /* Pods-amazone-amazoneTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-amazone-amazoneTests.release.xcconfig"; path = "Target Support Files/Pods-amazone-amazoneTests/Pods-amazone-amazoneTests.release.xcconfig"; sourceTree = "<group>"; };
-		956154A2373E4A68ACCE37D4 /* AmazonEmber_BdIt.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_BdIt.ttf; path = ../assets/fonts/AmazonEmber_BdIt.ttf; sourceTree = "<group>"; };
+		967E36DF669D4E699132F113 /* AmazonEmber_Th.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_Th.ttf; path = ../assets/fonts/AmazonEmber_Th.ttf; sourceTree = "<group>"; };
+		9BBCE1D77F79484487214AB5 /* AmazonEmber_HeIt.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_HeIt.ttf; path = ../assets/fonts/AmazonEmber_HeIt.ttf; sourceTree = "<group>"; };
+		9EA220D6B85C439F64EFFDE8 /* Pods-amazone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-amazone.release.xcconfig"; path = "Target Support Files/Pods-amazone/Pods-amazone.release.xcconfig"; sourceTree = "<group>"; };
 		A8CC2F5C2AEADDD8005E1DDA /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 		A8CC2F5D2AEADDD8005E1DDA /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Regular.ttf"; sourceTree = "<group>"; };
 		A8CC2F5E2AEADDD8005E1DDA /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
@@ -82,11 +80,13 @@
 		A8CC2F6C2AEADDD8005E1DDA /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
 		A8CC2F6D2AEADDD8005E1DDA /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
 		A8CC2F6E2AEADDD8005E1DDA /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; name = FontAwesome6_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome6_Solid.ttf"; sourceTree = "<group>"; };
-		B16CDE93CA2D4475976EF54D /* AmazonEmber_RgIt.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_RgIt.ttf; path = ../assets/fonts/AmazonEmber_RgIt.ttf; sourceTree = "<group>"; };
-		D1735FA8358E41D5A43656C6 /* AmazonEmber_HeIt.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_HeIt.ttf; path = ../assets/fonts/AmazonEmber_HeIt.ttf; sourceTree = "<group>"; };
-		DB996737D35C40D084F93097 /* AmazonEmber_Th.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_Th.ttf; path = ../assets/fonts/AmazonEmber_Th.ttf; sourceTree = "<group>"; };
+		AB861B0DB51F45D187026E42 /* AmazonEmber-Reguler.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "AmazonEmber-Reguler.ttf"; path = "../assets/fonts/AmazonEmber-Reguler.ttf"; sourceTree = "<group>"; };
+		CF11F6940A5C46D891E0A623 /* Amazon-Ember-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Amazon-Ember-Medium.ttf"; path = "../assets/fonts/Amazon-Ember-Medium.ttf"; sourceTree = "<group>"; };
+		D99D1B8B88D147BFA4800D23 /* AmazonEmber_ThIt.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_ThIt.ttf; path = ../assets/fonts/AmazonEmber_ThIt.ttf; sourceTree = "<group>"; };
+		E975A28036020B65042A55E3 /* libPods-amazone-amazoneTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-amazone-amazoneTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
-		F55018A119D640D29946A0A3 /* AmazonEmber_Rg.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_Rg.ttf; path = ../assets/fonts/AmazonEmber_Rg.ttf; sourceTree = "<group>"; };
+		F7449BDDC8CF4069A97D61B7 /* AmazonEmber_RgIt.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = AmazonEmber_RgIt.ttf; path = ../assets/fonts/AmazonEmber_RgIt.ttf; sourceTree = "<group>"; };
+		F7928C6ABB9C4CE58D972209 /* Amazon-Ember-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "Amazon-Ember-MediumItalic.ttf"; path = "../assets/fonts/Amazon-Ember-MediumItalic.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,7 +94,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7699B88040F8A987B510C191 /* libPods-amazone-amazoneTests.a in Frameworks */,
+				2491D3D14A0EE479B1177CE8 /* libPods-amazone-amazoneTests.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -102,7 +102,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C80B921A6F3F58F76C31292 /* libPods-amazone.a in Frameworks */,
+				16A0F6D955D6970EF8B63170 /* libPods-amazone.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -144,8 +144,8 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				5DCACB8F33CDC322A6C60F78 /* libPods-amazone.a */,
-				19F6CBCC0A4E27FBF8BF4A61 /* libPods-amazone-amazoneTests.a */,
+				183AF854211891F4EFCB11CA /* libPods-amazone.a */,
+				E975A28036020B65042A55E3 /* libPods-amazone-amazoneTests.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -211,10 +211,10 @@
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				3B4392A12AC88292D35C810B /* Pods-amazone.debug.xcconfig */,
-				5709B34CF0A7D63546082F79 /* Pods-amazone.release.xcconfig */,
-				5B7EB9410499542E8C5724F5 /* Pods-amazone-amazoneTests.debug.xcconfig */,
-				89C6BE57DB24E9ADA2F236DE /* Pods-amazone-amazoneTests.release.xcconfig */,
+				7E442CCEEB0CF7E07F7E2231 /* Pods-amazone.debug.xcconfig */,
+				9EA220D6B85C439F64EFFDE8 /* Pods-amazone.release.xcconfig */,
+				268AA0C698A60D8304C710DA /* Pods-amazone-amazoneTests.debug.xcconfig */,
+				0D1F0B5F803D2EDF8FEB358F /* Pods-amazone-amazoneTests.release.xcconfig */,
 			);
 			path = Pods;
 			sourceTree = "<group>";
@@ -222,18 +222,18 @@
 		F3DABF596E2D48B09AEA8C54 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				732CA64E129342BEABB23D92 /* Amazon-Ember-Medium.ttf */,
-				5BB6D9D794E14417B25262E6 /* Amazon-Ember-MediumItalic.ttf */,
-				38FFBFD27A2B4ED7B48CA391 /* AmazonEmber_Bd.ttf */,
-				956154A2373E4A68ACCE37D4 /* AmazonEmber_BdIt.ttf */,
-				096C350A44F54E2DBA6D865E /* AmazonEmber_He.ttf */,
-				D1735FA8358E41D5A43656C6 /* AmazonEmber_HeIt.ttf */,
-				57C81E23DA1B4EF4BFF206FA /* AmazonEmber_Lt.ttf */,
-				7C3ED11AC56D43E185974A9D /* AmazonEmber_LtIt.ttf */,
-				F55018A119D640D29946A0A3 /* AmazonEmber_Rg.ttf */,
-				B16CDE93CA2D4475976EF54D /* AmazonEmber_RgIt.ttf */,
-				DB996737D35C40D084F93097 /* AmazonEmber_Th.ttf */,
-				68899B0002D24581AF0B5284 /* AmazonEmber_ThIt.ttf */,
+				CF11F6940A5C46D891E0A623 /* Amazon-Ember-Medium.ttf */,
+				F7928C6ABB9C4CE58D972209 /* Amazon-Ember-MediumItalic.ttf */,
+				56372354235B40E8B4FCCB06 /* AmazonEmber-Bold.ttf */,
+				AB861B0DB51F45D187026E42 /* AmazonEmber-Reguler.ttf */,
+				31BC6E83B9A24384AB778BAE /* AmazonEmber_BdIt.ttf */,
+				72A7CC49C06B4BCC81D9ED67 /* AmazonEmber_He.ttf */,
+				9BBCE1D77F79484487214AB5 /* AmazonEmber_HeIt.ttf */,
+				1A1861727A9040F9A31CC7A5 /* AmazonEmber_Lt.ttf */,
+				67379434F3474343AC70A763 /* AmazonEmber_LtIt.ttf */,
+				F7449BDDC8CF4069A97D61B7 /* AmazonEmber_RgIt.ttf */,
+				967E36DF669D4E699132F113 /* AmazonEmber_Th.ttf */,
+				D99D1B8B88D147BFA4800D23 /* AmazonEmber_ThIt.ttf */,
 			);
 			name = Resources;
 			path = "";
@@ -246,12 +246,12 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "amazoneTests" */;
 			buildPhases = (
-				A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */,
+				ADA04CE1A1B67C7D3FDBFECA /* [CP] Check Pods Manifest.lock */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
-				C59DA0FBD6956966B86A3779 /* [CP] Embed Pods Frameworks */,
-				F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */,
+				F9AA2CB0A3E1AAA35835169C /* [CP] Embed Pods Frameworks */,
+				1EE929253F9A6C39D8E80468 /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -267,14 +267,14 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "amazone" */;
 			buildPhases = (
-				C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */,
+				EFAE01495727782613E79E03 /* [CP] Check Pods Manifest.lock */,
 				FD10A7F022414F080027D42C /* Start Packager */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
-				00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */,
-				E235C05ADACE081382539298 /* [CP] Copy Pods Resources */,
+				6BEF01D35BD5BC616D30AA7D /* [CP] Embed Pods Frameworks */,
+				9196D9113CB94EDACC19DABC /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -335,18 +335,18 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
-				95828EE4E5F34EAEAF94BCAC /* Amazon-Ember-Medium.ttf in Resources */,
-				D308D8AC0B124C49A7BA8B75 /* Amazon-Ember-MediumItalic.ttf in Resources */,
-				C0A2D6A12B024BB39D5097F8 /* AmazonEmber_Bd.ttf in Resources */,
-				D5B826E5B514479680A6B6A0 /* AmazonEmber_BdIt.ttf in Resources */,
-				B530019F595B4686AE612180 /* AmazonEmber_He.ttf in Resources */,
-				CA365DB263E6461B9CABE548 /* AmazonEmber_HeIt.ttf in Resources */,
-				38D29B5F340643BD9A6C58BE /* AmazonEmber_Lt.ttf in Resources */,
-				4FB6778A11634732A9BC4944 /* AmazonEmber_LtIt.ttf in Resources */,
-				15B30B4B577243BFB0D88C02 /* AmazonEmber_Rg.ttf in Resources */,
-				8EAA3EDABFC0444CB67A46DC /* AmazonEmber_RgIt.ttf in Resources */,
-				A87D7D6128774C0F824995B8 /* AmazonEmber_Th.ttf in Resources */,
-				5D923B75908441F1B10696F3 /* AmazonEmber_ThIt.ttf in Resources */,
+				31A1ABD5EB3B4B0DAF15C615 /* Amazon-Ember-Medium.ttf in Resources */,
+				98A8FC7B332E41F782613255 /* Amazon-Ember-MediumItalic.ttf in Resources */,
+				577C85B6C4DB446893C86CDB /* AmazonEmber-Bold.ttf in Resources */,
+				559EAE376D284E8C835F841B /* AmazonEmber-Reguler.ttf in Resources */,
+				E171504BE7FE436592715A4A /* AmazonEmber_BdIt.ttf in Resources */,
+				18F917E4D9304C20B4D0C421 /* AmazonEmber_He.ttf in Resources */,
+				F53436A56E87453D9AA9A71C /* AmazonEmber_HeIt.ttf in Resources */,
+				EC71BB999D9A4AF2900BEFE4 /* AmazonEmber_Lt.ttf in Resources */,
+				9237BC3047424F878D8FC760 /* AmazonEmber_LtIt.ttf in Resources */,
+				39F37F2D252747E6AB308B3A /* AmazonEmber_RgIt.ttf in Resources */,
+				C196511AA3D84E9DBD3FBF85 /* AmazonEmber_Th.ttf in Resources */,
+				2CDB9C6CBC1742FEB6A3F82C /* AmazonEmber_ThIt.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -369,7 +369,24 @@
 			shellPath = /bin/sh;
 			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"../node_modules/react-native/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"../node_modules/react-native/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
 		};
-		00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */ = {
+		1EE929253F9A6C39D8E80468 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-amazone-amazoneTests/Pods-amazone-amazoneTests-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-amazone-amazoneTests/Pods-amazone-amazoneTests-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-amazone-amazoneTests/Pods-amazone-amazoneTests-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		6BEF01D35BD5BC616D30AA7D /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -386,7 +403,24 @@
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-amazone/Pods-amazone-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
-		A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */ = {
+		9196D9113CB94EDACC19DABC /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-amazone/Pods-amazone-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-amazone/Pods-amazone-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-amazone/Pods-amazone-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		ADA04CE1A1B67C7D3FDBFECA /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -408,7 +442,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */ = {
+		EFAE01495727782613E79E03 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -430,7 +464,7 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
-		C59DA0FBD6956966B86A3779 /* [CP] Embed Pods Frameworks */ = {
+		F9AA2CB0A3E1AAA35835169C /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -445,40 +479,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-amazone-amazoneTests/Pods-amazone-amazoneTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		E235C05ADACE081382539298 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-amazone/Pods-amazone-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-amazone/Pods-amazone-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-amazone/Pods-amazone-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		F6A41C54EA430FDDC6A6ED99 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-amazone-amazoneTests/Pods-amazone-amazoneTests-resources-${CONFIGURATION}-input-files.xcfilelist",
-			);
-			name = "[CP] Copy Pods Resources";
-			outputFileListPaths = (
-				"${PODS_ROOT}/Target Support Files/Pods-amazone-amazoneTests/Pods-amazone-amazoneTests-resources-${CONFIGURATION}-output-files.xcfilelist",
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-amazone-amazoneTests/Pods-amazone-amazoneTests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		FD10A7F022414F080027D42C /* Start Packager */ = {
@@ -533,7 +533,7 @@
 /* Begin XCBuildConfiguration section */
 		00E356F61AD99517003FC87E /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5B7EB9410499542E8C5724F5 /* Pods-amazone-amazoneTests.debug.xcconfig */;
+			baseConfigurationReference = 268AA0C698A60D8304C710DA /* Pods-amazone-amazoneTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -560,7 +560,7 @@
 		};
 		00E356F71AD99517003FC87E /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 89C6BE57DB24E9ADA2F236DE /* Pods-amazone-amazoneTests.release.xcconfig */;
+			baseConfigurationReference = 0D1F0B5F803D2EDF8FEB358F /* Pods-amazone-amazoneTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				COPY_PHASE_STRIP = NO;
@@ -584,7 +584,7 @@
 		};
 		13B07F941A680F5B00A75B9A /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 3B4392A12AC88292D35C810B /* Pods-amazone.debug.xcconfig */;
+			baseConfigurationReference = 7E442CCEEB0CF7E07F7E2231 /* Pods-amazone.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
@@ -611,7 +611,7 @@
 		};
 		13B07F951A680F5B00A75B9A /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 5709B34CF0A7D63546082F79 /* Pods-amazone.release.xcconfig */;
+			baseConfigurationReference = 9EA220D6B85C439F64EFFDE8 /* Pods-amazone.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
