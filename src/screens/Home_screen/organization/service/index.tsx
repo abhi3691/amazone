@@ -17,6 +17,7 @@ const Service = () => {
         horizontal
         showsHorizontalScrollIndicator={false}
         style={styles.container}
+        bounces={false}
         contentContainerStyle={styles.contentContainerStyle}>
         <LinearGradient
           style={styles.serviceContainer}

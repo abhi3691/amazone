@@ -1,6 +1,8 @@
 import {StyleSheet, Text, View} from 'react-native';
 import React from 'react';
 import colors from '../../../../components/constants/colors';
+import {FONTS} from '../../../../components/constants/fonts';
+import {RFValue} from 'react-native-responsive-fontsize';
 
 const styles = StyleSheet.create({
   serviceImg: {
@@ -16,8 +18,9 @@ const styles = StyleSheet.create({
     width: 140,
   },
   recentSearch: {
-    fontSize: 13,
-    color: 'black',
+    fontSize: RFValue(12),
+    color: colors.black,
+    fontFamily: FONTS.AmazonEmber_Rg,
     marginBottom: 8,
   },
 });

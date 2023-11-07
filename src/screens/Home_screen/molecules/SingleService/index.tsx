@@ -10,7 +10,9 @@ interface props {
 const SingleService: FC<props> = ({index, item}) => {
   return (
     <View style={styles.outerContainer}>
-      <Text style={styles.recentSearch}>{item.title}</Text>
+      <Text style={styles.recentSearch} numberOfLines={2}>
+        {item.title}
+      </Text>
       <Image source={item.image} style={styles.serviceImg} />
     </View>
   );

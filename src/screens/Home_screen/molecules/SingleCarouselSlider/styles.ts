@@ -4,7 +4,7 @@ import colors from '../../../../components/constants/colors';
 
 const styles = StyleSheet.create({
   container: {
-    height: ScreenRatio.height / 3.8,
+    height: ScreenRatio.height / 3,
     width: '100%',
     justifyContent: 'center',
     alignItems: 'center',

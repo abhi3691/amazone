@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
   container: {
     height: ScreenRatio.height / 6,
     width: ScreenRatio.width / 1.1,
-    backgroundColor: colors.bgColor,
+    backgroundColor: colors.scanBg,
     justifyContent: 'center',
     alignItems: 'center',
     marginBottom: 10,

@@ -16,6 +16,8 @@ const colors = {
   gradintYellow1: '#FFECB7',
   graintYellow2: '#FFDD77',
   lingthBlue: '#E2EFE8',
+  scanBg: '#E9EDEE',
+  cardBg: '#F6FAFB',
 };
 
 export default colors;

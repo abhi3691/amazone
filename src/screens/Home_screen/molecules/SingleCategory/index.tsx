@@ -11,7 +11,7 @@ const SingleCategory: FC<props> = ({item, index}) => {
   return (
     <View key={index} style={styles.container}>
       {item.image && <Image source={item.image} style={styles.image} />}
-      <Text>{item.title}</Text>
+      <Text style={styles.title}>{item.title}</Text>
     </View>
   );
 };
